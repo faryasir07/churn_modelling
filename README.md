@@ -47,7 +47,7 @@ The dataset used in this project consists of customer information, including dem
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/churn_modelling.git
+   git clone https://github.com/faryasir07/churn_modelling.git
    cd churn_modelling
    ```
 2. Install dependencies:
